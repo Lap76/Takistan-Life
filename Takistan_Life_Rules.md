@@ -348,3 +348,5 @@ Last Updated  by LarsdeWolf
 4. PMCs must obey the New Life Rule. Once they die they return to normal PMC status.
 
 5. PMCs cannot commit crimes while not in contract.
+
+6. PMCs cannot sell their equipment/guns/vehicles to others.
