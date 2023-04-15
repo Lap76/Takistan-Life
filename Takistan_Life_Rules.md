@@ -325,7 +325,7 @@ Last Updated  by LarsdeWolf
 
 ## President Rules
 
-1. The President is not allowed to carry a weapon other than a handgun.
+1. The President is not allowed to carry a weapon other than a handgun, unless they become a dictator (ingame mechanic).
 
 2. The President is required to be on Discord in the President voice channel.
 
@@ -343,7 +343,7 @@ Last Updated  by LarsdeWolf
 
 2. PMC killed on contracts may not ask for comp, unless something outside the contract that is breaking rules results in their death or loss of capital.
 
-3. PMCs may set their own contract prices, but may not go below $15,000 or go above $3 Million.
+3. PMCs may set their own contract prices, but may not go below $15,000 or go above $5 Million.
 
 4. PMCs must obey the New Life Rule. Once they die they return to normal PMC status.
 
